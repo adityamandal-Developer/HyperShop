@@ -1,13 +1,13 @@
 
 # Grull-Assignment Front-end
-[HypweShop](https://hyper-shop.vercel.app/) is a web app where users can shop for computer accessories with a modern web experience 
+[HyperShop](https://hyper-shop.vercel.app/) is a web app where users can shop for computer accessories with a modern web experience 
 
 
 ## Features
 
 - parallax scrolling
 - 3d card
-- Add items to cart 
+- Add items to the cart 
 - update (add or remove) the items within the cart
 - data saved in local storage so it doesn't get lost while refresh
 - clean yet modern design to enhance user experience 
