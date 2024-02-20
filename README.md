@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Grull-Assignment Front-end
 
-Currently, two official plugins are available:
+HyperShop is a web app where users can shop for computer accessories with a modern web experience 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Features
+
+- parallax scrolling
+- 3d card
+- Add items to the cart 
+- update (add or remove) the items within the cart
+- data saved in local storage so it doesn't get lost while refresh
+- clean yet modern design to enhance user experience 
+- sort items alphabetically or price low to high
+- vast details for products
+- responsive design for all types of devices
+
+
+
+# Tech Stack
+ - Used Vite-react for the latest and fastest performance
+ Tailwind CSS, React js, React router dom, React-dom, framer-motion, aceternity, 
+
+
+**Deployment:** Frontend Deployed on Vercel 
+https://wit-by-bit-assignment-swart.vercel.app/
+
+
+# Hi, I'm Aditya! 👋
+
+Creative, passionate, and a proficient Full-Stack MERN developer. Leveraging skills to enhance backend and front-end development skills to build complex and creative websites.
+
+https://github.com/adityamandal-Developer
