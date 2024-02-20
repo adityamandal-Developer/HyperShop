@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "CyberFont";
+  src: url("../Assets/cyberFont.ttf") format("truetype");
+  /* You can also use other font formats like woff, woff2, etc. */
+}
+.logo-text {
+  font-family: "CyberFont";
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "CyberFont";
+  src: url("./cyberFont.ttf") format("truetype");
+}
+
+.shop-category {
+  background: #000000;
+}
+
+.category-heading {
+  margin-bottom: 30px;
+  font-family: "CyberFont";
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
