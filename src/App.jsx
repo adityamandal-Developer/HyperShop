@@ -26,6 +26,7 @@ function App() {
           </Route>
 
           <Route path="/login" element={<LoginSignup />} />
+          {/* for future authentication */}
         </Routes>
       </BrowserRouter>
     </div>
